@@ -1,0 +1,30 @@
+{
+  "name": "ngcoin-mini-app",
+  "version": "1.0.0",
+  "description": "NGCoin Mini App - Tap, Tasks, VIP, Admin Dashboard",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=22.0.0"
+  },
+  "dependencies": {
+    "axios": "^1.7.0",
+    "body-parser": "^1.20.2",
+    "crypto": "^1.0.1",
+    "express": "^4.18.2",
+    "express-rate-limit": "^6.10.0",
+    "pg": "^8.11.0"
+  },
+  "keywords": [
+    "NGCoin",
+    "Telegram",
+    "Mini App",
+    "Backend",
+    "VIP",
+    "Admin Dashboard"
+  ],
+  "author": "Godwin Oloja",
+  "license": "MIT"
+}
